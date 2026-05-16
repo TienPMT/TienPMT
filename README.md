@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Tien, a 20-year-old software developer and teacher from Vietnam.
+I'm Tien, a 21-year-old software developer and teacher from Vietnam.
 
 - 🎓 Information Technology Student at HUIT.
 - 👨‍🏫 Advanced Math Tutor & English Teaching Assistant.
