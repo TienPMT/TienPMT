@@ -1,20 +1,23 @@
-# 👋 Hey there, I'm Ashton!
-Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
+<h1 align="center">
+  Phan Minh Tiến
+</h1>
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+## Hey! 👋
+I'm Tien, a 20-year-old software developer and teacher from Vietnam.
 
-I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
+- 🎓 Information Technology Student at HUIT.
+- 👨‍🏫 Advanced Math Tutor & English Teaching Assistant.
+- 💻 Creator of **Smart Expense Tracker & Insight** (Integrated Java Backend, Flutter, and Deep Learning for receipt extraction).
+- ⚙️ Developer of multiple .NET desktop applications for business and pharmacy management.
 
-🔭 Leading teams on transformative projects to reshape industries.
++ a lot more ;)
 
-🌱 Continuously learning and empowering others through mentorship and collaboration.
+## Skills
+- 👨‍💻 **Languages:** Python, C, C++, C#, Java, Dart
+- ⚙️ **Frameworks & Tech:** Flutter, .NET Framework, Object-Oriented Programming (OOP), Deep Learning (Transformer models, DDPM)
+- 💽 **Databases & Tools:** SQLite, Git/GitHub
++ eager to learn and build practical applications :D
 
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+## Contact
+- 📧 [minhtienvvt7@gmail.com](mailto:minhtienvvt7@gmail.com)
+- 💼 [@your-username](https://github.com/your-username) on GitHub ```
