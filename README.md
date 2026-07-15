@@ -2,12 +2,12 @@
   Phan Minh Tiến
 </h1>
 
-## Hey! 👋
-I'm Tien, a 21-year-old software developer and teacher from Vietnam.
+## Hi! 👋
+I'm Tien, a 21-year-old Software Engineer student from Vietnam.
 
 - 🎓 Information Technology Student at HUIT.
 - 👨‍🏫 Advanced Math Tutor & English Teaching Assistant.
-- 💻 Creator of **Smart Expense Tracker & Insight** (Integrated Java Backend, Flutter, and Deep Learning for receipt extraction).
+- 💻 Creator of **Finance AI Application** (Integrated Java Backend, Flutter, and Deep Learning for receipt extraction).
 - ⚙️ Developer of multiple .NET desktop applications for business and pharmacy management.
 
 + a lot more ;)
