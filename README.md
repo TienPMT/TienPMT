@@ -7,7 +7,6 @@
 I am a Software Engineering student based in Vietnam, with a strong passion for building scalable applications and integrating artificial intelligence into practical solutions. My unique background combines rigorous technical development with hands-on experience in education, allowing me to approach complex problems with a logical mindset and communicate solutions effectively.
 
 - 🎓 **Education:** Information Technology Student at HUIT.
-- 💼 **Current Focus:** Developing cross-platform mobile applications and robust backend architectures.
 - 🤝 **Soft Skills:** Problem-solving, academic support, and teamwork, honed through my experience as an Advanced Math Tutor and English Teaching Assistant.
 
 ---
