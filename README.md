@@ -12,19 +12,6 @@ I am a Software Engineering student based in Vietnam, with a strong passion for 
 
 ---
 
-## 🚀 Featured Projects
-
-### 💡 Smart Expense Tracker & Insight
-A comprehensive personal finance management system integrating AI for automated data extraction and analysis.
-- **Frontend & Backend:** Developed a cross-platform mobile application utilizing **Flutter / Dart** and built robust APIs with **Java Spring Boot**.
-- **Data Persistence:** Implemented **SQLite** for seamless local data management.
-- **AI Integration:** Integrated a custom **DONUT Deep Learning model** for accurate Vietnamese receipt extraction and implemented the **WCM-SPADE** algorithm for advanced consumer behavior analysis.
-
-### 🏢 Business & Management Systems
-- Designed and deployed operational systems, including a **Pharmacy Management System** and a **Football Field Management System**, leveraging the **.NET Framework**, C#, and relational databases.
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 **Languages:**
