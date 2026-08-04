@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Phan Minh Tien 👋</h1>
-<h3 align="center">Software Engineer | Mobile & Backend Developer | Tech Educator</h3>
+<h3 align="center">Software Engineer
 
 <br/>
 
